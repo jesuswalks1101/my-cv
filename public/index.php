@@ -189,7 +189,7 @@
                     <h3>What do you need?</h3>
                     <textarea name="textarea" id="textarea" cols="101" rows="10" placeholder="Type here..."></textarea>
                     <br>
-                    <form action="/action.html">
+                    
                         <label for="hear">How did you hear about me?</label>
                         <select name="hear" id="hear">
                             <option value="linkedin">LinkedIn</option>
@@ -197,7 +197,7 @@
                             <option value="youtube">YouTube</option>
                             <option value="other">Other</option>
                         </select>
-                    </form>
+                    
                     <input type="submit" value="Send" name="submit">
                 </form>
             </section>
