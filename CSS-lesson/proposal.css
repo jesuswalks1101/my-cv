@@ -14,6 +14,12 @@ body {
   font-family: 'Stint Ultra Condensed', cursive;
 }
 
+#proposal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 section {
   padding-top: 5%;
   text-align: center;
@@ -75,4 +81,21 @@ section {
   background-color: #fff;
   color: black;
   opacity: 0.3;
+}
+
+.information {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.information article {
+  padding: 15px 15px;
+}
+
+@media only screen and (max-width: 762px) {
+  textarea {
+    margin: 0 15px;
+    width: 100%;
+  }
 }
