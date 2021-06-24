@@ -22,7 +22,7 @@
                 <a href="#contacts" class="nav-display"><strong>Contacts</strong></a>
                 <a class="nav-proposal" href="proposal.php" target="_blank"><strong>Send Proposal</strong></a>
                 <div class="menu-btn">
-                    <div class="menu-btn__burger">
+                    <div class="menu-btn__burger"></div>
                 </div>
             </nav>
             
@@ -48,23 +48,26 @@
                 <h2>SKILLS</h2>
                 <section>
                     <ul>
-                        <li>Web Development</li>
-                             <ol>
+                        <li>Web Development
+                            <ol>
                                 <li>HTML</li>
                                 <li>CSS</li>
                                 <li>JavaScript</li>
                                 <li>PHP</li>
                                 <li>Laravel</li>
                              </ol>
+                        </li>
+                             
                     </ul>
                 </section>
                 <section>
                     <ul>
-                        <li>Web Design</li>
+                        <li>Web Design
                              <ol>
                                  <li>Photoshop</li>
                                  <li>Blender</li>
                              </ol>
+                        </li>                            
                     </ul>
                 </section>
                 
